@@ -802,7 +802,7 @@
   content: "\f0e0";
 }
 .fa-linkedin:before {
-  content: "\f0e1";
+    content: "\f08c"; /* \f0e1 */
 }
 .fa-rotate-left:before,
 .fa-undo:before {
