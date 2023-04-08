@@ -57,7 +57,7 @@ p {
 }
 
 .section-heading p {
-  display: inline-block;
+  display: inline-table;
   font-size: 15px;
   line-height: 26px;
   color: #343434;
