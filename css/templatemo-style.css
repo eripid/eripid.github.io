@@ -39,7 +39,7 @@ p {
 .section-heading {
   text-align: left;
   position: relative;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .section-heading h1 {
@@ -57,7 +57,7 @@ p {
 }
 
 .section-heading p {
-  display: inline-table;
+  display: inline-block;
   font-size: 15px;
   line-height: 26px;
   color: #343434;
