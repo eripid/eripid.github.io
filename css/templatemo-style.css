@@ -27,7 +27,7 @@ p {
   width: 100%;
   display: inline-block;
   height: auto;
-  left: 80%;
+  left: 50%;
   text-align: center;
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);
