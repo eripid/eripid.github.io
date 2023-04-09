@@ -745,7 +745,6 @@ header {
 }
 
 #blog .tabs {
-  display: block;
   list-style: none;
   margin: 0px;
   padding: 0px;
@@ -756,6 +755,7 @@ header {
 }
 
 #blog .tabs li {
+  display: inline-block;
   text-align: center;
   width: 25%;
   float: left;
