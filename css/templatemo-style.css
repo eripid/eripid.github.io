@@ -773,6 +773,7 @@ header {
   line-height: 150px;
   font-weight: 600;
   transition: 0.5s;
+  padding-bottom: 5px;
 }
 
 #blog .tabs a:hover {
