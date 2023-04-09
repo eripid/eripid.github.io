@@ -773,12 +773,10 @@ header {
   font-weight: 600;
   transition: 0.5s;
   padding-bottom: 5px;
+  font-size: 19px;
+  color: #232323;
 }
 
-#blog .tabs p {
-    font-size: 19px;
-    color: #232323;
-}
 
 #blog .tabs p:hover {
   color: #45489a;
