@@ -22,7 +22,7 @@ p {
 }
 
 .content-section {
-  padding-top: 20px;
+  padding-top: 80px;
   position: relative;
   width: 100%;
   display: inline-block;
@@ -48,6 +48,7 @@ p {
   color: #232323;
   display: inline-block;
   margin-right: 50px;
+  position: relative;
 }
 
 .section-heading em {
@@ -57,7 +58,7 @@ p {
 }
 
 .section-heading p {
-  display: inline-table;
+  display: inline-block;
   font-size: 15px;
   line-height: 26px;
   color: #343434;
