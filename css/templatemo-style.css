@@ -838,7 +838,6 @@ header {
 }
 
 #blog .item .text-content span {
-  display: inline-block;
   font-size: 15px;
   font-weight: 600;
   color: #7a7a7a;
@@ -847,7 +846,8 @@ header {
 }
 
 #blog .item .text-content p {
-    max-width: 100%;
+    font-size: 15px;
+    font-weight: 600;
 }
 
 #blog .item .text-content .accent-button {
