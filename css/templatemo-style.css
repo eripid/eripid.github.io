@@ -48,6 +48,7 @@ p {
   color: #232323;
   display: inline-block;
   margin-right: 50px;
+  position: relative;
 }
 
 .section-heading em {
@@ -61,7 +62,7 @@ p {
   font-size: 15px;
   line-height: 26px;
   color: #343434;
-  position: relative;
+  position: absolute;
   top: 12.5px;
 }
 
