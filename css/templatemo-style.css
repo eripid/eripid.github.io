@@ -763,7 +763,7 @@ header {
   padding: 0;
 }
 
-#blog .tabs p {
+#blog .tabs a {
   display: block;
   text-align: center;
   text-decoration: none;
