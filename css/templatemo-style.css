@@ -835,6 +835,8 @@ header {
   font-weight: 600;
   color: #232323;
   letter-spacing: 0.5px;
+  margin-right: 880px;
+  width: 100%;
 }
 
 #blog .item .text-content span {
@@ -843,11 +845,6 @@ header {
   color: #7a7a7a;
   letter-spacing: 0.5px;
   margin-bottom: 15px;
-}
-
-#blog .item .text-content p {
-    font-size: 15px;
-    font-weight: 600;
 }
 
 #blog .item .text-content .accent-button {
