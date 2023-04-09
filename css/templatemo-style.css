@@ -777,7 +777,7 @@ header {
 }
 
 
-#blog .tabs p:hover {
+#blog .tabs a:hover {
   color: #45489a;
 }
 
