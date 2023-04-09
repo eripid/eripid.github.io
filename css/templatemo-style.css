@@ -846,8 +846,12 @@ header {
   margin-bottom: 15px;
 }
 
+#blog .item .text-content p {
+    max-width: 100%;
+}
+
 #blog .item .text-content .accent-button {
-  margin-top: 25px;
+    margin-top: 25px;
 }
 
 
