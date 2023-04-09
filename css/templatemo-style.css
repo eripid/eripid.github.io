@@ -764,7 +764,7 @@ header {
 }
 
 #blog .tabs a {
-  display: inline-block;
+  display: block;
   text-align: center;
   text-decoration: none;
   text-transform: capitalize;
