@@ -838,7 +838,6 @@ header {
 }
 
 #blog .item .text-content span {
-    display: inline;
     font-size: 15px;
     font-weight: 600;
     color: #7a7a7a;
