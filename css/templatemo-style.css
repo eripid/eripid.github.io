@@ -825,6 +825,7 @@ header {
 }
 
 #blog .tabgroup ul li img {
+  display: inline-block;
   float: left;
   margin-right: 30px;
   max-width: 100%;
