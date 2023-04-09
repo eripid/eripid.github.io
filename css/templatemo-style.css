@@ -763,7 +763,7 @@ header {
   padding: 0;
 }
 
-#blog .tabs a {
+#blog .tabs p {
   display: block;
   text-align: center;
   text-decoration: none;
@@ -780,7 +780,7 @@ header {
     color: #232323;
 }
 
-#blog .tabs a:hover {
+#blog .tabs p:hover {
   color: #45489a;
 }
 
