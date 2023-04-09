@@ -804,14 +804,12 @@ header {
 }
 
 #blog .tabgroup ul li {
-  display: inline;
   text-align: left;
   margin-bottom: 10px;
   padding-bottom: 20px;
   border-bottom: 1px solid #ddd;
 }
 #blog .tabgroup ul li:last-child {
-    display: inline;
     border-bottom: none;
     margin-bottom: 0px;
     padding-bottom: 10px;
@@ -829,7 +827,7 @@ header {
 }
 
 #blog .item .text-content h4 {
-    display: inline;x
+    display: inline;
     padding-top: 7.5px;
     margin-top: 0px;
     margin-bottom: 5px;
