@@ -755,6 +755,7 @@ header {
 }
 
 #blog .tabs li {
+  display: inline-block;
   text-align: center;
   width: 25%;
   float: left;
