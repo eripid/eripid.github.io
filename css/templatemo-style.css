@@ -748,7 +748,7 @@ header {
   list-style: none;
   margin: 0px;
   padding: 0px;
-  height: 190px;
+  height: 290px;
   width: 100%;
   background-color: #eee;
   border-bottom: 10px solid #45489a;
@@ -770,7 +770,7 @@ header {
   letter-spacing: 0.5px;
   color: #232323;
   font-size: 19px;
-  line-height: 180px;
+  line-height: 280px;
   font-weight: 600;
   transition: 0.5s;
 }
