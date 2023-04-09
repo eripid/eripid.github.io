@@ -745,6 +745,7 @@ header {
 }
 
 #blog .tabs {
+  display: block;
   list-style: none;
   margin: 0px;
   padding: 0px;
@@ -768,7 +769,6 @@ header {
   text-decoration: none;
   text-transform: capitalize;
   letter-spacing: 0.5px;
-
   font-weight: 600;
   transition: 0.5s;
   padding-bottom: 5px;
