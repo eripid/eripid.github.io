@@ -768,7 +768,7 @@ header {
   text-align: center;
   text-decoration: none;
   text-transform: capitalize;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.1px;
   color: #232323;
   font-size: 19px;
   line-height: 180px;
@@ -827,11 +827,10 @@ header {
   overflow: hidden;
 }
 #blog .tabgroup ul li .text-content {
-
+    display: inline;
 }
 
 #blog .item .text-content h4 {
-    display: inline;
     padding-top: 7.5px;
     margin-top: 0px;
     margin-bottom: 5px;
