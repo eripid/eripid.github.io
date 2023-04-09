@@ -768,13 +768,16 @@ header {
   text-align: center;
   text-decoration: none;
   text-transform: capitalize;
-  letter-spacing: 0.1px;
-  color: #232323;
-  font-size: 19px;
+  letter-spacing: 0.5px;
   line-height: 150px;
   font-weight: 600;
   transition: 0.5s;
   padding-bottom: 5px;
+}
+
+#blog .tabs p {
+    font-size: 19px;
+    color: #232323;
 }
 
 #blog .tabs a:hover {
