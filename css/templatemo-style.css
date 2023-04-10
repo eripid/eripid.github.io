@@ -107,13 +107,15 @@ p {
 
 .white-button:after,.white-button:before{content:"";display:table;clear:both}
 
+
+
 /* black button */
 .black-button a {
   font-size: 13px;
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #23232;
+  background-color: #232323;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -125,7 +127,7 @@ p {
 
 .black-button a:hover {
   background-color: #fff;
-  color: #23232;
+  color: #232323;
 }
 
 header {
