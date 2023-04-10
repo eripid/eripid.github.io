@@ -105,6 +105,8 @@ p {
   color: #45489a;
 }
 
+.white-button:after,.white-button:before{content:"";display:table;clear:both}
+
 /* black button */
 .black-button a {
   font-size: 13px;
