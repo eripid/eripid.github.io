@@ -383,6 +383,20 @@ header {
 .Modern-Slider:after,.Modern-Slider:before{content:"";display:table;clear:both}
 .info:after,.info:before{content:"";display:table;clear:both}
 
+.Modern-Slider .info-sch {
+  text-align: right;
+  position: absolute;
+  z-index: 10;
+  top: 50%;
+  right: 60px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+  display: inline-block;
+}
+
 .Modern-Slider .info-sch h1 {
   margin-top: 0px;
   margin-bottom: 15px;
