@@ -111,7 +111,7 @@ p {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #fff;
+  background-color: #23232;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -119,6 +119,11 @@ p {
   letter-spacing: 0.25px;
   text-decoration: none;
   transition: all 0.3s;
+}
+
+.black-button a:hover {
+  background-color: #45489a;
+  color: #fff;
 }
 
 header {
