@@ -380,9 +380,6 @@ header {
   font-weight: 700;
 }
 
-.Modern-Slider:after,.Modern-Slider:before{content:"";display:table;clear:both}
-.info:after,.info:before{content:"";display:table;clear:both}
-
 .Modern-Slider .info-sch {
   text-align: right;
   position: absolute;
