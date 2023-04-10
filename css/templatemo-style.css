@@ -383,7 +383,7 @@ header {
 .Modern-Slider:after,.Modern-Slider:before{content:"";display:table;clear:both}
 .info:after,.info:before{content:"";display:table;clear:both}
 
-.Modern-Slider-sch .info-sch h1 {
+.Modern-Slider .info-sch h1 {
   margin-top: 0px;
   margin-bottom: 15px;
   font-size: 48px;
