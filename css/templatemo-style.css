@@ -106,11 +106,6 @@ p {
 }
 
 .white-button:before,.white-button:after{content:"";display:table;clear:both}
-.clearfix:after {
-  content:"";
-  display:table;
-  clear:both;
-}
 
 
 /* black button */
