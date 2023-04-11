@@ -105,7 +105,12 @@ p {
   color: #45489a;
 }
 
-.white-button:after,.white-button:before{content:"";display:table;clear:both}
+.white-button:before,.white-button:after{content:"";display:table;clear:both}
+.clearfix:after {
+  content:"";
+  display:table;
+  clear:both;
+}
 
 
 /* black button */
