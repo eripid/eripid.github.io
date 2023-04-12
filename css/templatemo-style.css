@@ -380,6 +380,19 @@ header {
   font-weight: 700;
 }
 
+.Modern-Slider .info p {
+  font-size: 15px;
+  color: #fff;
+}
+
+.Modern-Slider .info .white-button {
+  margin-top: 30px;
+}
+
+.Modern-Slider .info .white-button a:focus {
+  outline: none;
+}
+
 .Modern-Slider:before,.Modern-Slider:after{content:"";display:table;clear:both}
 .info:before,.info:after{content:"";display:table;clear:both}
 
@@ -405,21 +418,8 @@ header {
   font-weight: 700;
 }
 
-.Modern-Slider .info p {
-  font-size: 15px;
-  color: #fff;
-}
-
-.Modern-Slider .info .white-button {
-  margin-top: 30px;
-}
-
 .Modern-Slider .info-2 .black-button {
   margin-top: 30px;
-}
-
-.Modern-Slider .info .white-button a:focus {
-  outline: none;
 }
 
 .Modern-Slider .info-2 .black-button a:focus {
