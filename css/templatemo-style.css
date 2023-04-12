@@ -630,7 +630,7 @@ header {
   position: absolute;
   z-index: 9;
   bottom: -44px;
-  opacity: 5;
+  opacity: 0;
 }
 
 #featured .item:hover .featured-button a {
